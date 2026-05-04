@@ -106,7 +106,7 @@ body{
 }
 
 .card{
-    width:430px;
+    width:450px;
     display:inline-block; 
     margin:10px;
     position:relative;
@@ -116,7 +116,7 @@ body{
 
 /* image */
 .card img{
-    width:100%;
+    width:90%;
     border-radius: 15px 50px;
 }
 
